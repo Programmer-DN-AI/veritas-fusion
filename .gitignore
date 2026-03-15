@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Model checkpoints
+checkpoints/**/*.pt
+checkpoints/**/*.pth
+checkpoints/**/*.ckpt
+
+# Outputs
+outputs/logs/
+outputs/figures/
+outputs/reports/
+outputs/predictions/
+
+# Processed data
+data/processed/audio/
+data/processed/frames/
+
+# Large raw datasets
+data/raw/
+
+# Split files can be kept if you want versioning
+# data/splits/
+
+# Temporary files
+*.tmp
+*.bak

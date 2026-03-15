@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+opencv-python
+librosa
+soundfile
+ffmpeg-python
+torch
+torchvision
+torchaudio
+transformers
+gradio
+tqdm
